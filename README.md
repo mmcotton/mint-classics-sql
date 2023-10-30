@@ -24,7 +24,7 @@ The exact steps I took in my analysis are outlined in the included SQL script. T
 
   4. The highest selling item in Mint Classic's inventory is the 1992 is Ferrari 360 Spider red, kept in Warehouse "b", with 8347 units in stock. The lowest selling item is  the 1957 Ford Thunderbird, also kept in Warehouse "b", 3209 units in stock.
 
-  5. While Warehouse "b"  does contain a high percentage of items selling below avarage, it also had the highest number of orders placed containing items stored there, at 209 orders. 
+  5. While Warehouse "b"  contains the lowest number of items selling below average, at 27% prcent. It also has the highest number of orders placed containing items stored there, at 209 orders. 
 
 ## Recommendations for Mint Classics
 
