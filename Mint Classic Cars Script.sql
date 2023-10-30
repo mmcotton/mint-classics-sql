@@ -138,5 +138,4 @@ CREATE TABLE stocksVersusSalesByWarehouse AS SELECT warehouseCode, SUM(quantityI
 SUM(totalSales) AS totalSales
 FROM inventorySales GROUP BY warehouseCode
 
-SELECT * FROM stocksVersusSalesByWarehouse
 
